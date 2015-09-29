@@ -22,3 +22,4 @@ Quel sont les idées pour maptime-alpes 2015 ?
 - choix de presentation des données
 - cartes sur papier (statique)
 - cartes des pistes
+- sources des données
