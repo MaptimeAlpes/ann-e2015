@@ -15,4 +15,3 @@ Quel sont les idées pour maptime-alpes 2015 ?
 - web intro (html/css/javascript)
 - web 2 (ajax, API)
 - OSM/HOT/MissingMaps
-- 
