@@ -1,6 +1,6 @@
 # annee 2015-2016
 
-Quel sont les idées pour maptime-alpes 2015 ?
+Quel sont les idées pour maptime-alpes durant la saison 2015-2016 ?
 
 - Geocodage/geonames
 - Plannification
