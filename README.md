@@ -5,12 +5,12 @@ Quel sont les idées pour maptime-alpes durant la saison 2015-2016 ?
 - Geocodage/geonames
 - Plannification
 - Postgis
-- Refaire anatomie (fait !)
+- ~~~Refaire anatomie~~~ (fait !)
 - Tuiles vectorielles
 - Turf.js
 - API Directions
 - QGIS
-- Leaflet encore ?
+- ~~~Leaflet encore ?~~~ (fait !)
 - CartoDB
 - web intro (html/css/javascript)
 - web 2 (ajax, API)
